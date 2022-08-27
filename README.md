@@ -15,7 +15,7 @@ This is a set of project records in the Machine Learning class. The following is
 
 ![](/images/3-1.png "")
 
-### Project 4 - Explainable AI (CNN)
+### Project 4: Explainable AI (CNN)
 
 ![](/images/4-1.png "")
 
