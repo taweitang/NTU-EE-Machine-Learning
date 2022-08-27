@@ -25,5 +25,5 @@ This is a set of project records in the Machine Learning class. The following is
 
 ### Project 6: Transfer Learning (Domain Adversarial Training)
 
-![](/images/6-1.png "")
+![](/images/6-1.png)
 ![](/images/6-2.png "")
