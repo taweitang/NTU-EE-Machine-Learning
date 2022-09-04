@@ -23,12 +23,12 @@ In this project, we used several visualization methods, including lime package, 
 
 ![](/images/4.png "")
 
-### Project 5: Adversarial Attack
-In this project, we used FGSM to create specific images to attack the trained convolutional neural network. Even if the image produced by FGSM was slightly different from the original image, it could effectively confuse the judgment of CNN.
-
-![](/images/5.png "")
-
-### Project 6: Transfer Learning (Domain Adversarial Training)
+### Project 5: Transfer Learning (Domain Adversarial Training)
 In the last project, we used DANN for Domain Adverse Training. Even if the target domain was not labeled, it could still successfully train a classification model with superior performance.
 
 ![](/images/6.png "")
+
+### Project 6: Adversarial Attack
+In this project, we used FGSM to create specific images to attack the trained convolutional neural network. Even if the image produced by FGSM was slightly different from the original image, it could effectively confuse the judgment of CNN.
+
+![](/images/5.png "")
