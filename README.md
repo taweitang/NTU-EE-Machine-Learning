@@ -21,14 +21,14 @@ In this project, we built a generative adversarial network (GAN) for anime face 
 ### Project 4: Explainable AI (CNN)
 In this project, we used several visualization methods, including lime package, salience map, smooth grad, filter explanation, and integrated gradient, to understand the focus of convolutional neural network judgment. This practice enabled us to better understand the real operation of convolutional neural networks, rather than just judging from the results.
 
-![](/images/4.png "")
+![](/images/4_1.png "")
 
 ### Project 5: Transfer Learning (Domain Adversarial Training)
 In the last project, we used DANN for Domain Adverse Training. Even if the target domain was not labeled, it could still successfully train a classification model with superior performance.
 
-![](/images/6.png "")
+![](/images/5_1.png "")
 
 ### Project 6: Adversarial Attack
 In this project, we used FGSM to create specific images to attack the trained convolutional neural network. Even if the image produced by FGSM was slightly different from the original image, it could effectively confuse the judgment of CNN.
 
-![](/images/5.png "")
+![](/images/6_1.png "")
