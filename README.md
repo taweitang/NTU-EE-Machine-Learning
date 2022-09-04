@@ -31,4 +31,4 @@ In the last project, we used DANN for Domain Adverse Training. Even if the targe
 ### Project 6: Adversarial Attack
 In this project, we used FGSM to create specific images to attack the trained convolutional neural network. Even if the image produced by FGSM was slightly different from the original image, it could effectively confuse the judgment of CNN.
 
-![](/images/6_1.png "")
+![](/images/6_2.png "")
