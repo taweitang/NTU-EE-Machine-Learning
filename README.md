@@ -28,5 +28,4 @@ In this project, we built a generative adversarial network (GAN) for anime face 
 
 ### Project 6: Transfer Learning (Domain Adversarial Training)
 
-![](/images/6-1.png)
-![](/images/6-2.png "")
+![](/images/6-1.png "")
