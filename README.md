@@ -5,8 +5,7 @@ This is a set of project records in the Machine Learning class. The following is
 ### Project 1: COVID-19 Cases Prediction (Regression)
 In this project, we sloved the COVID-19 Cases Prediction problem with deep neural networks (DNN). Also, we learned and tried some basic DNN training tips such as data cleaning, fine-tuning hyperparameters. Also, we were more familiar with PyTorch by doing this project.
 
-![](/images/1-1.png "")
-![](/images/1-2.png "")
+![](/images/1.png "")
 
 ### Project 2: Convolutional Neural Network
 In this project, we learned about the basic concept of convolutional neural network (CNN) and built a CNN for food-11 image classification. In this project, what impresses me most is that complex neural networks can not get better test results. Too deep neural networks can lead to serious overfitting problems, which is very obvious in this project.
